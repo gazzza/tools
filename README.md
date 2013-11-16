@@ -1,4 +1,4 @@
 tools
 =====
 
-Collection of python scripts I've use for data analysis during my PhD
+Collection of python scripts I use for data analysis during my PhD
